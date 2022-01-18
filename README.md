@@ -18,7 +18,7 @@ Congratulations! You've just cloned your first git repository! Now you get to le
 1. In VScode, navigate to the "Source Control" tab.
 2. Click on the 3 dots on the tob bar of the "Source Control" panel, then navigate down to "Branch > "Create branch...".
 3. You will be prompted to enter a name for the branch. Do so, but keep in mind that your name needs to be unique to the project, so in this case, name it after yourself. It's a best practice to do all lowercase, with dashes('-') in place of spaces.
-4. You are now on that branch, and you can modify the code as you like. In this case, open into the "students.md" file in VScode (Click on the "Explorer tab - the two sheets of paper", and open the file).
+4. You are now on that branch, and you can modify the code as you like. In this case, open into the "students.md" file in VScode (Click on the "Explorer" tab - the two sheets of paper - and open the file).
 5. In the file, type your full name under the current year, preceded by a dash and a space.
 6. Save the file.
 
@@ -52,6 +52,8 @@ Now your changes have been saved, so let's share them with everybody else!
   - The comment box is useful for listing the changes you made in a bullet-pointed form. This makes it easier for the reviewer.
 9. Notify one of the programming mentors (presently Kellen Watt), either by telling them in person, or by setting them as a reviewer on the right side (user KellenWatt). They will go in and validate your changes, then merge the pull request.
 
-**Congrats! You're code is now merged into the main respository forever! Good work!**
+**Congrats! You're code is now merged into the main respository forever! Great work!**
+
+As a note, unless you plan to continue working on the branch you created (which you usually don't need to after a merge), you can delete the branch. However, I'll leave that as an exercise to you.
 
 This will be the major process that you'll follow every time you make changes to robot code. Don't worry if you don't remember it or ge the process perfect every time. We're all human, and git is complicated.
