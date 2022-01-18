@@ -28,9 +28,9 @@ Congratulations! You've just editted your first source-controleld file! Now you'
 1. In VScode, navigate to the "Source Control" tab.
 2. If you've saved the file, it should appear in the "Changes" part of the panel. Go over to it, then click on the "+" sign that appears. This "stages" your changes for commit, and the file should move to a "Staged Changes" part of the panel.
 3. In the text field at the top, type in a short message describing the changes you made.
-  - Generally, you should always talk in the present tense e.g. "Add motor controller to drive system".
-  - Avoid using pronouns (namely "I", "you", "it", or "they")
-  - Keep the messages brief while still being as descriptive and readable as you can make them. To that end, use more or less complete sentences.
+    - Generally, you should always talk in the present tense e.g. "Add motor controller to drive system".
+    - Avoid using pronouns (namely "I", "you", "it", or "they")
+    - Keep the messages brief while still being as descriptive and readable as you can make them. To that end, use more or less complete sentences.
 4. Click the checkmark above the text field to "commit" your changes.
 
 ***Note***: You can do this with any number of files. You don't need to do this every time you make a tiny change. Only when you need to record your work as a sort of milestone. If you're not sure whether you should, ask a mentor.
@@ -41,15 +41,15 @@ Now your changes have been saved, so let's share them with everybody else!
 1. Once you have commits you haven't shared, in the "Source Control" panel you should see a blue button that says "Publish Branch" if you haven't shared it before. Otherwise you'll see a button that says "Sync Changes", and the number of commits you haven't pushed. Press that.
 2. You may see a dialog pop up saying something about "pull" and "push". Just click "okay" or "yes".
 3. Go to the project on Github, then click on the dropdown that probably says "master" or "main" at the top right of the files, opposite the green "Code" button from earlier. Select the branch that you just created, i.e. the one named after you. 
-  - If you look at the "students.md" file, you should see the changes you just made. If you navigate back to "master", you won't see the changes.
+    - If you look at the "students.md" file, you should see the changes you just made. If you navigate back to "master", you won't see the changes.
 4. Click on the "Pull Requests" at the top of the project (not the one at the top of the page).
 5. Click on the green "New Pull Request" button.
-  - There may be yellow(?) dialog saying your branch has recent changes with a green "Compare & Pull Request" button. Ignore this.
+    - There may be yellow(?) dialog saying your branch has recent changes with a green "Compare & Pull Request" button. Ignore this.
 6. Click the dropdown that says "compare: master" or "compare: main", and select your branch. 
-  - You should see the commits you made pop up as well as some comparison windows that show the changes you made.
+    - You should see the commits you made pop up as well as some comparison windows that show the changes you made.
 7. Click the green "Create pull request" button.
 8. Give the pull request a title (the text field next to your profile image), and give it more of a description or add any comments you might have in the "Leave a comment" box.
-  - The comment box is useful for listing the changes you made in a bullet-pointed form. This makes it easier for the reviewer.
+    - The comment box is useful for listing the changes you made in a bullet-pointed form. This makes it easier for the reviewer.
 9. Notify one of the programming mentors (presently Kellen Watt), either by telling them in person, or by setting them as a reviewer on the right side (user KellenWatt). They will go in and validate your changes, then merge the pull request.
 
 **Congrats! You're code is now merged into the main respository forever! Great work!**
